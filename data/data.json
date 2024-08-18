@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "Uniformes para Grupo das Mulheres",
+    "price": 0,
+    "rating": 4,
+    "image": "https://raw.githubusercontent.com/flexusbusiness/file-page/main/images/1-1.webp"
+  },
+  {
+    "id": 2,
+    "name": "Vestido de Princesa de 4 Anos",
+    "price": 0,
+    "rating": 5,
+    "image": "https://raw.githubusercontent.com/flexusbusiness/file-page/main/images/2-1.webp"
+  },
+  {
+    "id": 3,
+    "name": "Macacão para Festa Junina",
+    "price": 0,
+    "rating": 5,
+    "image": "https://raw.githubusercontent.com/flexusbusiness/file-page/main/images/3-1.webp"
+  },
+  {
+    "id": 4,
+    "name": "Vestido Mulheres Elegantes",
+    "price": 0,
+    "rating": 4,
+    "image": "https://raw.githubusercontent.com/flexusbusiness/file-page/main/images/4-1.webp"
+  },
+  {
+    "id": 5,
+    "name": "Vestido de Noiva Elegance",
+    "price": 0,
+    "rating": 4,
+    "image": "https://raw.githubusercontent.com/flexusbusiness/file-page/main/images/5-1.webp"
+  },
+  {
+    "id": 6,
+    "name": "Vestido Mulher Impactante",
+    "price": 0,
+    "rating": 4,
+    "image": "https://raw.githubusercontent.com/flexusbusiness/file-page/main/images/6-1.webp"
+  },
+  {
+    "id": 7,
+    "name": "Vestido Casual Marezo",
+    "price": 0,
+    "rating": 3,
+    "image": "https://raw.githubusercontent.com/flexusbusiness/file-page/main/images/7-1.webp"
+  },
+  {
+    "id": 8,
+    "name": "Fantasia Infantil Fadinha",
+    "price": 0,
+    "rating": 4,
+    "image": "https://raw.githubusercontent.com/flexusbusiness/file-page/main/images/8-1.webp"
+  },
+  {
+    "id": 9,
+    "name": "Fantasia Infantil Astronauta",
+    "price": 0,
+    "rating": 3,
+    "image": "https://raw.githubusercontent.com/flexusbusiness/file-page/main/images/9-1.webp"
+  },
+  {
+    "id": 10,
+    "name": "Conjunto Social Masculino",
+    "price": 0,
+    "rating": 3,
+    "image": "https://raw.githubusercontent.com/flexusbusiness/file-page/main/images/10-1.webp"
+  }
+]
