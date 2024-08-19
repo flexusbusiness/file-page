@@ -68,5 +68,33 @@
     "price": 0,
     "rating": 3,
     "image": "https://raw.githubusercontent.com/flexusbusiness/file-page/main/images/10-1.webp"
+  },
+    {
+    "id": 11,
+    "name": "Conjunto Social Feminino",
+    "price": 0,
+    "rating": 3,
+    "image": "https://raw.githubusercontent.com/flexusbusiness/file-page/main/images/11-1.webp"
+  },
+  {
+    "id": 12,
+    "name": "Conjunto Social Masculino",
+    "price": 0,
+    "rating": 3,
+    "image": "https://raw.githubusercontent.com/flexusbusiness/file-page/main/images/12-1.webp"
+  },
+  {
+    "id": 13,
+    "name": "Conjunto Social Masculino",
+    "price": 0,
+    "rating": 3,
+    "image": "https://raw.githubusercontent.com/flexusbusiness/file-page/main/images/13-1.webp"
+  },
+  {
+    "id": 14,
+    "name": "Conjunto Social Masculino",
+    "price": 0,
+    "rating": 3,
+    "image": "https://raw.githubusercontent.com/flexusbusiness/file-page/main/images/14-1.webp"
   }
 ]
